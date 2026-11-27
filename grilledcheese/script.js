@@ -1,1 +1,1 @@
-console.log("Use the url \"finalpart\"");
+console.log("Use the url \"/grilledcheese/finalpart/\"");
