@@ -1,1 +1,1 @@
-
+document.cookie = "usethisurl=finalpart";
