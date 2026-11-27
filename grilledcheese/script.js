@@ -1,1 +1,1 @@
-document.cookie = "usethisurl=finalpart";
+console.log("Use the url \"finalpart\""
